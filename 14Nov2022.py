@@ -19,7 +19,7 @@ df.withColumn('corrupt_record', StringType(), True)
 
 # COMMAND ----------
 
-list=['My','Name','is','Diksha','wali','and','I','need','a','project','asap']
+list=['My','Name','is','Diksha','wali']
 
 # COMMAND ----------
 
